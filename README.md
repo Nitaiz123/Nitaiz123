@@ -3,7 +3,7 @@ MSCS candidate @ Santa Clara University. Software engineer with 2+ years of expe
 
 Past: Optimized frontends @ TheLekhani
 
-Currently: Leveling up with graduate studies in CS. Building engaging digital avatars @ Mimio.ai
+Currently: Building engaging digital avatars @ Mimio.ai and leveling up with graduate studies in CS. 
 
 Always learning, constantly building, and passionate about creating technology that improves people's lives. Open to collaborating on impactful projects!
 
