@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently a graduate Computer Science & Engineering student slowly stepping into the data science field. My latest creation categorizes emergency text messages based on the need communicated by the sender in an event of a natural disaster. I am currently working on a recommendation engine that will surface content most likely relevant to the user using IBM Watson Studio. In my previous role as a Front-end engineer, I worked toward performance optimization, developing UI prototypes, developing APIs, testing, and maintaining react components. My long-term aim is to help companies better understand their customers, spot trends, and identify new opportunities through data. <br><br>If you have any opportunities, you can reach out to me via nitaipujari@gmail.com or directly message me on LinkedIn.
+MSCS candidate @ Santa Clara University. Software engineer with 2+ years of experience in machine learning, cloud computing, and full-stack development.
+Past: Optimized frontends @ TheLekhani
+Currently: Leveling up with graduate studies in CS. Building engaging digital avatars @ Mimio.ai
+Always learning, constantly building, and passionate about creating technology that improves people's lives. Open to collaborating on impactful projects!
 
 
 ## 🌐 Socials:
@@ -21,8 +24,6 @@ I am currently a graduate Computer Science & Engineering student slowly stepping
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nitaiz123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nitaiz123&icon=0&color=0)](https://visitcount.itsvg.in)
