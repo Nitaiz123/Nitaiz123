@@ -1,7 +1,10 @@
 # 💫 About Me:
 MSCS candidate @ Santa Clara University. Software engineer with 2+ years of experience in machine learning, cloud computing, and full-stack development.
+
 Past: Optimized frontends @ TheLekhani
+
 Currently: Leveling up with graduate studies in CS. Building engaging digital avatars @ Mimio.ai
+
 Always learning, constantly building, and passionate about creating technology that improves people's lives. Open to collaborating on impactful projects!
 
 
